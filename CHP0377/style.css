@@ -1,0 +1,68 @@
+.frm {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #333333;
+}
+.search {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #4B4B4B;
+	text-decoration: none;
+}
+.cont_yelov {
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	color: #CC7D00;
+	text-decoration: none;
+}
+.cont_blue {
+
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	color: #1A9BA8;
+	text-decoration: none;
+}
+.text {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #767676;
+	text-decoration: none;
+}
+.blue {
+
+
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #1A9BA8;
+	text-decoration: none;
+	text-transform:uppercase;
+}
+.text_yelow {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CC7D00;
+	text-decoration: none;
+}
+.footer {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #6F6F6F;
+	text-decoration: underline;
+}
+.blue2 {
+
+
+
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #1A9BA8;
+	text-decoration: none;
+	text-transform:none;
+}
